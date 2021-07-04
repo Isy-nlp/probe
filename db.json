@@ -1,5 +1,15 @@
 { 
 
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "bossabox-mock", "author": "eduardo k." }
+  ],
+  "comments": [
+    { "id": 1, "body": "um comentário", "postId": 1 }
+  ],
+  "profile": { "name": "eduardo k." }
+}
 
 
 
