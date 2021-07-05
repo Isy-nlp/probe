@@ -1,8 +1,9 @@
 {
-  "author": "Chinua Achebe",
-  "title": "Things Fall Apart",
-  "imagelinks": {
-    "smallThumbnail": "images/things-fall-apart.jpg",
-    "thumbnail": "images/things-fall-apart.jpg"
-  }
+    "books": [
+        {
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "imageLink": "http://books.google.com/books/content?id=plk_nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+        }
+    ]
 }
